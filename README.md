@@ -1,2 +1,2 @@
-# RStatistics
-Using R to condense and organize data
+# Python
+Solutions to questions using Python in Jupyter notebook
